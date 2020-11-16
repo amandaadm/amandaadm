@@ -3,7 +3,7 @@
 Meu nome é Amanda Lira
 
 <p>
-  <img src="https://gpvc.arturio.dev/iurygdeoliveira" alt="profile views">
+  <img src="https://gpvc.arturio.dev/amandaadm" alt="profile views">
 </p>
 
 ### Minhas redes:
@@ -24,4 +24,4 @@ Meu nome é Amanda Lira
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandaadm)](https://github.com/amandaadm/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=amandaadm) 
+![](https://github-readme-stats.vercel.app/api?username=amandaadm) (https://github.com/amandaadm/amandaadm.git)
