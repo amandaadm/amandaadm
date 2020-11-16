@@ -24,4 +24,4 @@ Meu nome é Amanda Lira
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandaadm)](https://github.com/amandaadm/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=amandaadm) (https://github.com/amandaadm/amandaadm.git)
+![](https://github-readme-stats.vercel.app/api?username=amandaadm)
